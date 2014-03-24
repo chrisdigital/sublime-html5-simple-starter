@@ -1,6 +1,6 @@
 # Sublime HTML5 Simple Starter
 
-A Sublime Text snippet to generate a stripped down HTML5 Simple Starter template loosely based on HTML5 Boilerplate (v4.3.0) template.
+A Sublime Text snippet to generate a stripped down HTML5 Simple Starter template loosely based on HTML5 Boilerplate.
 
 ## Install
 
@@ -16,7 +16,7 @@ In the command pallette (Cmd-Shift+P on Mac) type 'Install' then press enter to 
 
 With a blank HTML file open, type
 
-    htmlstarter
+    html5starter
 
 and press `TAB`.
 
