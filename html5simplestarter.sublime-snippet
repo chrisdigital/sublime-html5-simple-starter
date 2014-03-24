@@ -1,0 +1,30 @@
+<snippet>
+    <content><![CDATA[
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>"Hello World!" -- HTML5 Simple Starter Template</title>
+  <meta name="description" content="Hello World!">
+  <meta name="author" content="Chrisdigital">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+<!-- An excerpt from HTML5 & CSS3 for the Real World, by Alexis Goldstein, Louis Lazaris & Estelle Weyl. See more details: http://www.sitepoint.com/a-basic-html5-template/ 
+-->
+
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+  <!-- Add your site or application content here -->
+            <p>Hello World!--This is HTML5 Simple Starter Template.</p>
+  <script src="js/scripts.js"></script>
+</body>
+</html>
+]]></content>
+    <tabTrigger>html5starter</tabTrigger>
+</snippet>
