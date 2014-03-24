@@ -4,7 +4,7 @@ A Sublime Text snippet to generate a stripped down HTML5 Simple Starter template
 
 This is an exercise in creating a custom Sublime Text snippet.
 
-This is based on Sitepoint post and an excerpt from HTML5 & CSS3 for the Real World, by Alexis Goldstein, Louis Lazaris & Estelle Weyl. [See more details](: http://www.sitepoint.com/a-basic-html5-template/).
+This is based on Sitepoint post and an excerpt from HTML5 & CSS3 for the Real World, by Alexis Goldstein, Louis Lazaris & Estelle Weyl. [See more details](http://www.sitepoint.com/a-basic-html5-template/).
 
 ## Install
 
