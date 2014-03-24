@@ -6,6 +6,13 @@ This is an exercise in creating a custom Sublime Text snippet.
 
 This is based on Sitepoint post and an excerpt from HTML5 & CSS3 for the Real World, by Alexis Goldstein, Louis Lazaris & Estelle Weyl. [See more details](http://www.sitepoint.com/a-basic-html5-template/).
 
+If you looking for something more robust, check out: 
+-[HTML5 Boilerplate Snippet](https://github.com/sloria/sublime-html5-boilerplate) by @sloria (which inspired this repo)
+-[HTML Snippets](https://github.com/joshnh/HTML-Snippets) by @Joshnh 
+-[CSS Reset Sublime Snippet](https://github.com/tinacious/CSS-Reset-Sublime-Snippet) by @tinacious 
+
+And here are [notes on how to create your own snippets](http://www.webtempest.com/sublime-text-2-how-to-create-snippets), or deep dive into the latest "unofficial" [documentation](http://docs.sublimetext.info/en/latest/).
+
 ## Install
 
 ### Option 1: Manual
