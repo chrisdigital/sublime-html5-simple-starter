@@ -24,7 +24,7 @@ Copy the files to your Packages directory.
 
 ### Option 2: Package Control
 
-In the command pallette (Cmd-Shift+P on Mac) type 'Install' then press enter to see a list of packages. Search for 'HTML5 Simple Starter' then press enter to install.
+In the command pallette (Cmd-Shift+P on Mac) type 'Install' then press enter to see a list of packages. Search for 'HTML5 Simple Starter' then press enter to install. Learn more about "[Package Control](https://sublime.wbond.net/)"
 
 ## Usage
 
@@ -32,7 +32,9 @@ With a blank HTML file open, type
 
     html5starter
 
-and press `TAB`.
+and press `TAB`. 
+
+Here are some caveats about "[scope](http://stackoverflow.com/questions/19495269/sublime-text-2-code-snippet-not-working-in-proper-scope)." FYI, this snippet has a "global" scope so hints will appear in the default "plain text" and most others -- however, you won't see code highlighting until you switch to the HTML scope.
 
 That generates:
 
